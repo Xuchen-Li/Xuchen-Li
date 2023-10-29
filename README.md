@@ -4,10 +4,10 @@
   
 ### About Me
 <p>
-  &emsp;&emsp;I am an incoming Ph.D. student at <a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA), luckily supervised by Prof. <a href="https://people.ucas.ac.cn/~huangkaiqi?language=en"> Kaiqi Huang</a> (IAPR Fellow) at <a href="http://www.crise.ia.ac.cn/"> Center for Research on Intelligent System and Engineering</a> (CRISE).
+  &emsp;&emsp;I am an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences (CASIA)</a></b>, luckily supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow) at <b><a href="http://www.crise.ia.ac.cn/">Center for Research on Intelligent System and Engineering (CRISE)</a></b>.
 </p>
 <p>
-  &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at <a href="https://scs.bupt.edu.cn/"> School of Computer Science</a> (SCS) at <a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications</a> (BUPT).
+  &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science (SCS)</a></b> at <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a></b>.
 </p>
 <p>
   &emsp;&emsp;I am also grateful to have grown up and studied with my twin brother Xuzhao Li, which has been a truly unique and special experience for me.
