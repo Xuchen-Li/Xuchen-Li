@@ -30,10 +30,13 @@
 <tr><td>
   
 ### News
-- **2023.10** : Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students)!
-- **2023.09** : Obtain a **Postgraduate Recommendation** with a rank of **4/442 (0.9%)** at SCS, BUPT (本科毕业生推荐免试攻读研究生)!
-- **2023.09** : One paper about **Multi-modal Global Instance Tracking Benchmark** has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-- **2022.09** : Obtain **National Scholarship** with a rank of **2/430 (0.47%)** by Ministry of Educatuon of China in the junior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students)!
+- 2023.10 : Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students)!
+
+- 2023.09 : Obtain a **Postgraduate Recommendation** with a rank of **4/442 (0.9%)** at SCS, BUPT (本科毕业生推荐免试攻读研究生)!
+
+- 2023.09 : One paper about **Multi-modal Global Instance Tracking Benchmark** has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
+
+- 2022.09 : Obtain **National Scholarship** with a rank of **2/430 (0.47%)** by Ministry of Educatuon of China in the junior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students)!
 <br>
 </td></tr>
 
