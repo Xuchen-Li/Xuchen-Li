@@ -4,7 +4,7 @@
   
 ### About Me
 <p>
-  &emsp;&emsp;I am an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences (CASIA)</a></b>, luckily supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow) at <b><a href="http://www.crise.ia.ac.cn/">Center for Research on Intelligent System and Engineering (CRISE)</a></b>.
+  &emsp;&emsp;I am an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences (CASIA)</a></b> and <b><a href="http://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS)</a></b>, luckily supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow) at <b><a href="http://www.crise.ia.ac.cn/">Center for Research on Intelligent System and Engineering (CRISE)</a></b>.
 </p>
 <p>
   &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science (SCS)</a></b> at <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a></b>.
