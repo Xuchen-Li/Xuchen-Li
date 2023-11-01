@@ -38,7 +38,7 @@
 
 * **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)! 
 
-* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)! 
+* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates, awarded to top 1% students of BUPT)! 
 
 <br>
 </td></tr>
