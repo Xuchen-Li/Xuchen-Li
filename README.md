@@ -30,15 +30,15 @@
 <tr><td>
   
 ### News
-* **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)! 
+* **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)! 
 
 * **2023.09** : 📝 One paper about **Multi-modal Global Instance Tracking Benchmark** has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)! 
 
-* **2022.12** : 🏅 Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader) 
+* **2022.12** : 🏅 Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader) 
 
-* **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** by Ministry of Education of China and Huawei AI Education Base Joint Working Group (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges of Beijing University of Posts and Telecommunications)! 
+* **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** by Ministry of Education of China and Huawei AI Education Base Joint Working Group (only 20 students win this scholarship among 3 colleges of Beijing University of Posts and Telecommunications)! 
 
-* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** by Ministry of Educatuon of China in the junior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)! 
+* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** by Ministry of Educatuon of China in the junior year (highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)! 
 
 <br>
 </td></tr>
