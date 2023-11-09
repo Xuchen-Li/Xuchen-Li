@@ -32,7 +32,7 @@
 ### News
 * **2023.11** : 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students of CASIA)!
 
-* **2023.11** : 🏆 Obtain **Merit Student in Beijing** (only 36 students obtain this honor of BUPT)!
+* **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
 
 * **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (awarded to top 1% students of BUPT)! 
 
