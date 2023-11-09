@@ -10,7 +10,7 @@
   &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science (SCS)</a></b> at <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a></b>.
 </p>
 <p>
-  &emsp;&emsp;I am also grateful to have grown up and studied with my twin brother Xuzhao Li, which has been a truly unique and special experience for me.
+  &emsp;&emsp;I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother Xuzhao Li, which is a truly unique and special experience for me.
 </p>
 <br>
 </td></tr>
