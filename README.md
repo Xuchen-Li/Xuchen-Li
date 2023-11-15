@@ -34,7 +34,7 @@
 
 * **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
 
-* **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (awarded to top 1% students of BUPT)! 
+* **2023.10** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (awarded to top 1% students of BUPT)! 
 
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)! 
 
@@ -42,7 +42,7 @@
 
 * **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)! 
 
-* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (awarded to top 1% students of BUPT)! 
+* **2022.09** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (awarded to top 1% students of BUPT)! 
 
 <br>
 </td></tr>
