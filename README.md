@@ -42,7 +42,7 @@
 
 * **2022.12** : 🏅 Win the **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)! 
 
-* **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)! 
+* **2022.12** : 🏆 Obtain **Huawei AI Education Base Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)! 
 
 * **2022.09** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (awarded to top 1% students of BUPT)! 
 
