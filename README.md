@@ -23,7 +23,7 @@
 
 - Natural Language Tracking (NLT)
   
-- Visual and Language Tracking (VLT)
+- Visual Language Tracking (VLT)
 
 - Computer Vision (CV)
 <br>
