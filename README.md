@@ -61,7 +61,7 @@
 
 * **[GOT-10k Platform](http://got-10k.aitestunion.com/)** 
 
-* **[MGIT Toolkit](https://github.com/huuuuusy/videocube-toolkit)**
+* **[VideoCube Toolkit](https://github.com/huuuuusy/videocube-toolkit)**
 
 <br>
 </td></tr>
