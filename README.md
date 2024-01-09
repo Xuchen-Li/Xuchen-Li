@@ -51,4 +51,14 @@
 <br>
 </td></tr>
 
+<tr><td>
+### Maintained Projects
+
+* **[VideoCube Platform](http://videocube.aitestunion.com/)** 
+* **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
+* **[GOT-10k Platform](http://got-10k.aitestunion.com/)** 
+* **[MGIT Toolkit](https://github.com/huuuuusy/videocube-toolkit)**
+
+<br>
+</td></tr>
 </table>
