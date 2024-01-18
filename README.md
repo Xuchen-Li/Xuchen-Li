@@ -20,8 +20,6 @@
 ### Research
 
 - Visual Object Tracking (VOT)
-
-- Natural Language Tracking (NLT)
   
 - Visual Language Tracking (VLT)
 
