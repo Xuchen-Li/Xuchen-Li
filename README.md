@@ -2,7 +2,7 @@
   
 <tr><td>
   
-### About Me
+### 👨🏻‍💻 About Me
 <p>
   &emsp;&emsp;I am an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences (CASIA)</a></b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow) at <b><a href="http://www.crise.ia.ac.cn/">Center for Research on Intelligent System and Engineering (CRISE)</a></b>.
 </p>
@@ -17,7 +17,7 @@
 
 <tr><td>
 
-### Research
+### 🔍️ Research
 
 - Visual Object Tracking (VOT)
   
@@ -29,7 +29,7 @@
 
 <tr><td>
   
-### News
+### 🔥 News
 * **2023.11** : 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship among 220 recommended postgraduate students of CASIA)!
 
 * **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
@@ -51,7 +51,7 @@
 
 <tr><td>
 
-### Maintained Projects
+### ⚙️ Maintained Projects
 
 * **[VideoCube Platform](http://videocube.aitestunion.com/)** 
 
