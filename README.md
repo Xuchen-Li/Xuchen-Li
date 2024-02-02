@@ -48,7 +48,7 @@
 
 <tr><td>
 
-### ⚙️ Maintained Projects
+### ⚙︎ Maintained Projects
 
 * **[VideoCube Platform](http://videocube.aitestunion.com/)** 
 * **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
