@@ -19,12 +19,12 @@
 
 ### 🔍️ Research
 
-##### Visual Object Tracking (VOT)
+#### Visual Object Tracking (VOT)
 
 - Research on visual object tracking algorithms within diverse scenes, aims to enhance the understanding and performance of single object tracking in various scenarios.
 - Research on the robustness and generalization aspects of single object tracking algorithms, investigates the algorithms' ability to adapt across diverse scenarios, ensuring consistent and reliable performance.
 
-##### Visual Language Tracking (VLT)
+#### Visual Language Tracking (VLT)
 
 - Research on multi-modal tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
 - Research on VLT extends to tasks involving comprehensive video understanding and encompasses efforts to enhance the algorithms' capability to interpret and contextualize objects in videos based on linguistic input.
