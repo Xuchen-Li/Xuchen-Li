@@ -17,7 +17,7 @@
 
 <tr><td>
 
-### 🔍️ Research
+### 🔬 Research Interests
 
 #### Visual Language Tracking (VLT)
 
@@ -48,7 +48,7 @@
 
 <tr><td>
 
-### ⚙️ Maintained Projects
+### 🌟 Maintained Projects
 
 * **[VideoCube Platform](http://videocube.aitestunion.com/)** 
 * **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
@@ -72,14 +72,4 @@
 <br>
 </td></tr>
 
-<tr><td>
-  
-### ✉️ Contact
-
-* **lixuchen2024@ia.ac.cn** (Main, Valid from 2023.10 - 2029.07)
-* **xuchenli@bupt.edu.cn** (Valid from 2020.09 - 2024.07)
-* **xuchenli1030@gmail.com**
-
-<br>
-</td></tr>
 </table>
