@@ -37,36 +37,18 @@
   
 ### 🔥 News
 
-- **2023.12** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
- 
-- **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-
-- **2022.12** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
-
-<br>
-</td></tr>
-
-<tr><td>
-
-### 🌟 Maintained Projects
-
-* **[VideoCube Platform](http://videocube.aitestunion.com/)** 
-* **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
-* **[GOT-10k Platform](http://got-10k.aitestunion.com/)** 
-
-<br>
-</td></tr>
-
-<tr><td>
+- **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship of CASIA)!
   
-### 🔗 For More Info
+- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+  
+- **2023.11**: 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
+  
+- **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
+  
+- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship** (only 20 students win this scholarship of BUPT)!
+  
+- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
-* **[Intelligence of Human-Computer Competition](http://turingai.ia.ac.cn/)**
-* **[Research Group of Intelligent Gaming](http://www.ig.ia.ac.cn:81/)**
-* **[Center for Research on Intelligent System and Engineering (CRISE)](http://www.crise.ia.ac.cn/)**
-* **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**
-* **[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**
-* **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**
 
 <br>
 </td></tr>
