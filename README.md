@@ -41,7 +41,7 @@
   
 - **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
   
-- **2023.11**: 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
+- **2023.11**: 🏆 Obtain **Beijing Merit Student** (only 36 students obtain this honor of BUPT)!
   
 - **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
   
