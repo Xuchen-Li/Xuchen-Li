@@ -1,7 +1,7 @@
 <table>
 
 <tr><td>
-  
+
 ### 👨🏻‍💻 About Me
 <p>
   &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences (CASIA)</a></b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow, IEEE Senior Member).
@@ -10,8 +10,9 @@
   &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science (SCS)</a></b> at <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a></b>.
 </p>
 <p>
-  &emsp;&emsp;I am very grateful to work with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>, which has a significant impact on me. I am also grateful to grow up and study with my twin brother Xuzhao Li, which is a truly unique and special experience for me.
+  &emsp;&emsp;I am very grateful to work with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>, which has a significant impact on me. I am also grateful to grow up and study with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b>, which is a truly unique and special experience for me.
 </p>
+
 <br>
 </td></tr>
 
@@ -34,7 +35,7 @@
 </td></tr>
 
 <tr><td>
-  
+
 ### 🔥 News
 
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship of CASIA)!
