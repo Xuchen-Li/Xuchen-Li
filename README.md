@@ -38,17 +38,17 @@
 
 ### 🔥 News
 
-- **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship of CASIA)!
+- **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (中国科学院大学大学生奖学金)** (only 17 students win this scholarship of CASIA)!
   
-- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship (本科生国家奖学金)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
   
-- **2023.11**: 🏆 Obtain **Beijing Merit Student** (only 36 students obtain this honor of BUPT)!
+- **2023.11**: 🏆 Obtain **Beijing Merit Student (北京市三好学生)** (only 36 students obtain this honor of BUPT)!
   
 - **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
   
-- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship** (only 20 students win this scholarship of BUPT)!
+- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (华为智能基座奖学金)** (only 20 students win this scholarship of BUPT)!
   
-- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship (本科生国家奖学金)** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
 
 <br>
