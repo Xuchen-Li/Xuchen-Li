@@ -38,6 +38,8 @@
 
 ### 🔥 News
 
+- **2024.04**: 📝 One paper has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference, Oral)!
+
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (中国科学院大学大学生奖学金)** (only 17 students win this scholarship of CASIA)!
   
 - **2023.12**: 🏆 Obtain **China National Scholarship (本科生国家奖学金)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
