@@ -1,5 +1,6 @@
+<img src="https://github.com/Xuchen-Li/Xuchen-Li/blob/output/github-contribution-grid-snake.svg" alt="贡献网格图" style="display: block; margin: 0 auto;">
 <table>
-
+ 
 <tr><td>
 
 ### 👨🏻‍💻 About Me
