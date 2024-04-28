@@ -1,4 +1,7 @@
-<img src="https://github.com/Xuchen-Li/Xuchen-Li/blob/output/github-contribution-grid-snake.svg" alt="贡献网格图" style="display: block; margin: 0 auto;">
+<div align="center">
+My <img src="https://profile-counter.glitch.me/Xuchen-Li/count.svg"> visitor
+<img src="https://github.com/Xuchen-Li/Xuchen-Li/blob/output/github-contribution-grid-snake.svg">
+</div>  
 
 <table>
  
