@@ -18,26 +18,8 @@ My <img src="https://profile-counter.glitch.me/Xuchen-Li/count.svg"> visitor
   &emsp;&emsp;I am very grateful to work with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>, which has a significant impact on me. I am also grateful to grow up and study with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b>, which is a truly unique and special experience for me.
 </p>
 <p>
-  &emsp;&emsp;My research focuses on visual object tracking and visual language tracking tasks. If you are interested in my work or would like to collaborate, please feel free to contact me.
+  &emsp;&emsp;My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
-
-<br>
-</td></tr>
-
-<tr><td>
-
-### 🔬 Research Interests
-
-#### Visual Language Tracking (VLT)
-
-- Research on multi-modal tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
-- Research on VLT extends to tasks involving comprehensive video understanding and encompasses efforts to enhance the algorithms' capability to interpret and contextualize objects in videos based on linguistic input.
-- The exploration of human-computer interaction patterns employs Large Language Models (LLMs) in conjunction with visual language tracking as a proxy task, contributing to the development of interactions that are more intuitive and user-friendly.
-
-#### Visual Object Tracking (VOT)
-
-- Research on visual object tracking algorithms within diverse scenes, aims to enhance the understanding and performance of single object tracking in various scenarios.
-- Research on the robustness and generalization aspects of single object tracking algorithms, investigates the algorithms' ability to adapt across diverse scenarios, ensuring consistent and reliable performance.
 
 <br>
 </td></tr>
@@ -46,19 +28,15 @@ My <img src="https://profile-counter.glitch.me/Xuchen-Li/count.svg"> visitor
 
 ### 🔥 News
 
+- **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the **VALSE2024** poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us.
+- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
 - **2024.04**: 📝 One paper has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
-
-- **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (中国科学院大学大学生奖学金)** (only 17 students win this scholarship of CASIA)!
-  
-- **2023.12**: 🏆 Obtain **China National Scholarship (本科生国家奖学金)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
-  
-- **2023.11**: 🏆 Obtain **Beijing Merit Student (北京市三好学生)** (only 36 students obtain this honor of BUPT)!
-  
+- **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
+- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2023.11**: 🏆 Obtain **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)** (only 36 students obtain this honor of BUPT)!
 - **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-  
-- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (华为智能基座奖学金)** (only 20 students win this scholarship of BUPT)!
-  
-- **2022.12**: 🏆 Obtain **China National Scholarship (本科生国家奖学金)** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)** (only 20 students win this scholarship of BUPT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
 
 <br>
