@@ -28,9 +28,9 @@ My <img src="https://profile-counter.glitch.me/Xuchen-Li/count.svg"> visitor
 
 ### 🔥 News
 
-- **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the **VALSE2024** poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us.
+- **2024.05**: 📣 Present our work (**Global Instance Tracking**) at **TPAMI2023** during the **VALSE2024** poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us.
 
-- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
+- **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
 
 - **2024.04**: 📝 One paper has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
 
