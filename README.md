@@ -1,8 +1,3 @@
-<div align="center">
-My <img src="https://profile-counter.glitch.me/Xuchen-Li/count.svg"> visitor
-<img src="https://github.com/Xuchen-Li/Xuchen-Li/blob/output/github-contribution-grid-snake.svg">
-</div>  
-
 <table>
  
 <tr><td>
