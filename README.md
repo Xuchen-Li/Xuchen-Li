@@ -13,7 +13,7 @@
   &emsp;&emsp;I am very grateful to work with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>, which has a significant impact on me. I am also grateful to grow up and study with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b>, which is a truly unique and special experience for me.
 </p>
 <p>
-  &emsp;&emsp;My research focuses on <b>Visual Language Tracking</b>, <b>Multi-modal Learning</b>, <b>Video Understanding</b> and <b>Large Language Model</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
+  &emsp;&emsp;My research focuses on <b>Visual Language Tracking</b>, <b>Multi-modal Learning</b> and <b>Large Language Model</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
 
 <br>
