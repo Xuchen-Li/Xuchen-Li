@@ -22,6 +22,8 @@
 <tr><td>
 
 ### 🔥 News
+- **2024.06**: 🏆 Our [**paper**](https://xuchen-li.github.io/#DTLLM) received **Best Paper Honorable Mention Award** at **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference)!
+
 
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
   
