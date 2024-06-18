@@ -1,5 +1,5 @@
 <table>
- 
+
 <tr><td>
 
 ### 👨🏻‍💻 About
@@ -22,14 +22,12 @@
 <tr><td>
 
 ### 🔥 News
-- **2024.06**: 🏆 Our [**paper**](https://xuchen-li.github.io/#DTLLM) received **Best Paper Honorable Mention Award** at **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference)!
-
 
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
   
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information!
   
-- **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
+- **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
   
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
   
