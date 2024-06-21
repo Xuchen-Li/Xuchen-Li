@@ -15,7 +15,6 @@
 <p>
   &emsp;&emsp;My research focuses on <b>Visual Language Tracking</b>, <b>Multi-modal Learning</b> and <b>Large Language Model</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
-
 <br>
 </td></tr>
 
@@ -27,7 +26,7 @@
   
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information!
   
-- **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award)!
+- **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award)!
   
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
   
