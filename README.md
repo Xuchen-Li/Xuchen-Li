@@ -7,7 +7,7 @@
   &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA)</b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow). Additionally, I am a member of <b><a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a> (VIIG)</b>.
 </p>
 <p>
-  &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> at <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications)</a> (BUPT)</b>.
+  &emsp;&emsp;Before that, I received my B.E. degree in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> from <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications)</a> (BUPT)</b> in Jun. 2024.
 </p>
 <p>
   &emsp;&emsp;I am very grateful to work with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>, which has a significant impact on me. I am also grateful to grow up and study with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b>, which is a truly unique and special experience for me.
@@ -15,6 +15,7 @@
 <p>
   &emsp;&emsp;My research focuses on <b>Visual Language Tracking</b>, <b>Multi-modal Learning</b> and <b>Large Language Model</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
+
 <br>
 </td></tr>
 
