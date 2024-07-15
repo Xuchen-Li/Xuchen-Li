@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About
 <p>
-  &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, an incoming Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA)</b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow). Additionally, I am a member of <b><a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a> (VIIG)</b>.
+  &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, a first-year Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA)</b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (IAPR Fellow). Additionally, I am a member of <b><a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a> (VIIG)</b>.
 </p>
 <p>
   &emsp;&emsp;Before that, I received my B.E. degree in Computer Science and Technology at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> from <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications)</a> (BUPT)</b> in Jun. 2024.
