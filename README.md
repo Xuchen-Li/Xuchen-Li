@@ -23,7 +23,7 @@
 ### 🔥 News
 
 - **2024.06**: 📝 One [**paper**](https://xuchen-li.github.io/#VSLLM) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference).
-- **2024.06**: 📣 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="E:\Desktop\task\homepage\Xuchen-Li.github.io\images\ANT.png" style="width: 4em;"/></a>), studying Large Language Model.
+- **2024.06**: 📣 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT), studying Large Language Model.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
