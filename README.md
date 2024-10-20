@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About
 <p>
-  &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, a first-year Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA)</b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b>, co-supervised by <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>. Additionally, I am a member of <b><a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a> (VIIG)</b>.
+  &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, a first-year Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA)</b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b>, co-supervised by <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b>.
 </p>
 <p>
     &emsp;&emsp;Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> from <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT)</b> in Jun. 2024.
@@ -15,6 +15,7 @@
 <p>
   &emsp;&emsp;My research focuses on <b>Visual Language Tracking</b>, <b>Large Language Model</b> and <b>Data-centric AI</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
+
 
 <br>
 </td></tr>
