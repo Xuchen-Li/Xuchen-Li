@@ -25,7 +25,6 @@
 
 - **2024.09**: 📝 Two papers ([**MemVLT**](https://github.com/XiaokunFeng/MemVLT) and [**CPDTrack**](https://github.com/ZhangDailing8/CPDTrack)) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
-- **2024.06**: 👩‍💻 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT), studying Multi-modal Large Language Model Agent.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://github.com/Xuchen-Li/DTLLM-VLT)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award)!
