@@ -10,7 +10,7 @@
     &emsp;&emsp;Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> from <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT)</b> in Jun. 2024. During my time there, I was awarded <b>China National Scholarship <font face="楷体">(国家奖学金)</font></b> twice. Thank you to everyone for their support.
 </p>
 <p>
-    &emsp;&emsp;I am grateful to be growing up and studying with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b> (M.S. Student at BIT), which is a truly unique and special experience for me. I am also proud to have collaborated with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b> (Research Fellow at NTU), which has a significant impact on me.
+    &emsp;&emsp;I am grateful to be growing up and studying with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b> (M.S. Student at BIT), which is a truly unique and special experience for me. I am also proud to collaborate with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b> (Research Fellow at NTU), which has a significant impact on me.
 </p>
 <p>
   &emsp;&emsp;My research focuses on <b>Multi-modal Learning</b>, <b>Large Language Model</b> and <b>Data-centric AI</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
