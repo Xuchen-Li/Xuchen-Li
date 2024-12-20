@@ -4,17 +4,18 @@
 
 ### 👨🏻‍💻 About
 <p>
-  &emsp;&emsp;I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, a first-year Ph.D. student at <b><a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences</a> (CASIA)</b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b>.
+I am <b>Xuchen Li <font face="楷体">(李旭宸)</font></b>, a first-year Ph.D. student at <b><a href="http://bjzgca.bjedu.cn:81/">Beijing Zhongguancun Academy</a></b>, supervised by <b><a href="https://web.math.princeton.edu/~weinan/">Prof. Weinan E</a></b> (Academician of CAS), <b><a href="http://faculty.bicmr.pku.edu.cn/~dongbin/">Prof. Bing Dong</a></b> (Professor at PKU) and <b><a href="https://zwt233.github.io/">Prof. Wentao Zhang</a></b> (Professor at PKU) and <b><a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a></b>, supervised by <b><a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a></b> (Professor at CASIA).
 </p>
 <p>
-    &emsp;&emsp;Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> from <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT)</b> in Jun. 2024. During my time there, I was awarded <b>China National Scholarship <font face="楷体">(国家奖学金)</font></b> twice. Thank you to everyone for their support.
+Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at <b><a href="https://scs.bupt.edu.cn/">School of Computer Science</a> (SCS)</b> from <b><a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a> (BUPT)</b> in Jun. 2024. During my time there, I was awarded <b>China National Scholarship</b> twice. Thank you to everyone for their support.
 </p>
 <p>
-    &emsp;&emsp;I am grateful to be growing up and studying with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b> (M.S. Student at BIT), which is a truly unique and special experience for me. I am also proud to collaborate with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b> (Research Fellow at NTU), which has a significant impact on me.
+I am grateful to be growing up and studying with my twin brother <b><a href="https://xuzhaoli.github.io/">Xuzhao Li</a></b> (M.S. Student at BIT), which is a truly unique and special experience for me. I am also proud to collaborate with <b><a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a></b> (Research Fellow at NTU), which has a significant impact on me.
 </p>
 <p>
-  &emsp;&emsp;My research focuses on <b>Multi-modal Learning</b>, <b>Large Language Model</b> and <b>Data-centric AI</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
+My research focuses on <b>Multi-modal Learning</b>, <b>Large Language Model</b> and <b>Data-centric AI</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
+
 
 <br>
 </td></tr>
