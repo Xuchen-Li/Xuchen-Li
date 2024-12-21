@@ -24,7 +24,7 @@ My research focuses on <b>Multi-modal Learning</b>, <b>Large Language Model</b> 
 
 ### 🔥 News
 
-- **2024.06**: 📝 One paper has been accepted by <b>the 50th International Conference on Acoustics, Speech, and Signal Processing</b> (ICASSP, CCF-B Conference)!
+- **2024.12**: 📝 One paper has been accepted by <b>the 50th International Conference on Acoustics, Speech, and Signal Processing</b> (ICASSP, CCF-B Conference)!
 - **2024.11**: 🏆 Obtain <b>Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)</b> as <b>class president</b> (only 10 classes obtain this honor of UCAS)!
 - **2024.09**: 📝 Two papers have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
