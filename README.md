@@ -23,7 +23,7 @@ My research focuses on <b>Multi-modal Learning</b>, <b>Large Language Model</b> 
 - **2024.12**: 📝 <b>1 paper</b> is accepted to <strong>ICASSP 2025</strong>!
 - **2024.09**: 📝 <b>2 paper</b> are accepted to <strong>NeurIPS 2024</strong>!
 - **2024.06:** 📝 <b>1 paper</b> is accepted to <strong>PRCV 2024</strong>!
-- **2024.04**: 📝 <b>1 paper</b> is accepted to <strong>CVPRW 2023</strong> and awarded <b>Best Paper Honorable Mention Award</b>!</p>
+- **2024.04**: 📝 <b>1 paper</b> is accepted to <strong>CVPRW 2023</strong> and awarded <b>Best Paper Honorable Mention Award</b>!
 - **2023.09**: 📝 <b>1 paper</b> is accepted to <strong>NeurIPS 2023</strong>!
 
 <br>
