@@ -1,0 +1,89 @@
+body {
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: Georgia, Optima, "Times New Roman";
+}
+
+.container {
+    padding-left: 50px;
+    padding-right: 50px;
+    min-width: 1200px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.logo-image {
+    max-width: 75%;
+    height: auto;
+    overflow: hidden;
+}
+
+li {
+    list-style-type: disc;
+}
+
+ul {
+    margin-left: -10px;
+}
+
+.media {
+    position: relative;
+    left: 10px;
+    border-left: 5px #1fd76d solid;
+}
+
+.review {
+    position: relative;
+    left: 10px;
+    border-left: 5px #1E90FF solid;
+    margin-bottom: 20px;
+}
+
+.media-body {
+    padding-left: 15px;
+}
+
+.award ul li {
+    list-style-type: disc;
+    line-height: 30px;
+}
+
+.researchInt ul li {
+    list-style-type: disc;
+    line-height: 30px;
+}
+
+.news ul li {
+    font-size: 15px;
+    list-style-type: none;
+    line-height: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.news ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.education p {
+    margin-bottom: 0.4em;
+}
+
+.photo {
+    float: left;
+    width: 70%;
+    padding-top: 10px;
+}
+
+.photo img {
+    width: 70%;
+}
+
+.researchInt p {
+    margin-bottom: 0.4em;
+}
+
+.staff p {
+    margin-bottom: 0.4em;
+}
