@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <link
-        href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic'
-        rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
-</head>
-
 <body>
+
     <div class="container">
         <div class="row">
             <div class='row'>
                 <div class='col-xs-9'>
-                    <br>
                     <h3>
                         <strong>Xuchen Li / <font face="楷体">李旭宸</font></strong>
                     </h3>
@@ -107,5 +95,3 @@
         </div>
 
 </body>
-
-</html>
