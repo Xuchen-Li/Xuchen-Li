@@ -13,7 +13,7 @@
                                 Academy of Sciences</em></h4>
                         </p>
                     </div>
-                    <p><i class="fa fa-envelope"></i>&nbsp;lixuchen2024@ia.ac.cn</p>
+                    <p><i class="fa fa-envelope"></i>lixuchen2024@ia.ac.cn</p>
                     <p><i class="fa fa-university"></i> <b><a
                                 href="https://scholar.google.com/citations?hl=en-US&user=9zHkraUAAAAJ"
                                 target="_blank">Google
