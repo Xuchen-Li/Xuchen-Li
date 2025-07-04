@@ -1,4 +1,4 @@
-### **Xuchen Li / *李旭宸***
+### **Xuchen Li / 李旭宸**
 
 #### *First-year Ph.D. Student of Pattern Recognition and Intelligent System*
 
