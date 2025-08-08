@@ -1,6 +1,6 @@
 ### **Xuchen Li / 李旭宸**
 
-#### *First-year Ph.D. Student of Pattern Recognition and Intelligent System*
+#### *Ph.D. Student of Pattern Recognition and Intelligent System*
 
 #### *Zhongguancun Academy and Institute of Automation, Chinese Academy of Sciences*
 
@@ -10,7 +10,7 @@
 
 ### **Biography**
 
-I am a first-year Ph.D. student at [**Zhongguancun Academy (ZGCA)**](http://bjzgca.edu.cn/) and [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://www.ia.cas.cn/), supervised by <b><a href="https://zwt233.github.io" target="_blank">Wentao Zhang</a></b> (Assistant Professor at PKU), <b><a href="http://faculty.bicmr.pku.edu.cn/~dongbin/" target="_blank">Bin Dong</a></b> (Professor at PKU) and <b><a href="https://people.ucas.ac.cn/~huangkaiqi" target="_blank">Kaiqi Huang</a></b> (Professor at CASIA). Before that, I received my B.E. degree in Computer Science and Technology with overall ranking **1/449 (0.22%)** at the [**School of Computer Science**](https://scs.bupt.edu.cn/) from [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/) in Jun. 2024. I am grateful to be growing up and studying with my twin brother **Xuzhao Li** (M.S. Student at BIT), which is a truly unique and special experience for me.
+I am a Ph.D. student at [**Zhongguancun Academy (ZGCA)**](http://bjzgca.edu.cn/) and [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://www.ia.cas.cn/), supervised by <b><a href="https://zwt233.github.io" target="_blank">Wentao Zhang</a></b> (Assistant Professor at PKU), <b><a href="http://faculty.bicmr.pku.edu.cn/~dongbin/" target="_blank">Bin Dong</a></b> (Professor at PKU) and <b><a href="https://people.ucas.ac.cn/~huangkaiqi" target="_blank">Kaiqi Huang</a></b> (Professor at CASIA). Before that, I received my B.E. degree in Computer Science and Technology with overall ranking **1/449 (0.22%)** at the [**School of Computer Science**](https://scs.bupt.edu.cn/) from [**Beijing University of Posts and Telecommunications (BUPT)**](https://www.bupt.edu.cn/) in Jun. 2024. I am grateful to be growing up and studying with my twin brother **Xuzhao Li** (M.S. Student at BIT), which is a truly unique and special experience for me.
 
 ### **Research**
 
