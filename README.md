@@ -17,6 +17,6 @@ I am a Ph.D. student at [**Zhongguancun Academy (ZGCA)**](http://bjzgca.edu.cn/)
 My research interests mainly lie in **Large Language Models**, **Data-centric AI**, and **Multi-modal Learning**. Particularly, I am interested in:
 
 * **Large Language Models**: Large Language Models and Multi-modal Large Language Models Reasoning and Understanding
-* **Data-centric AI**: Benchmark and Dataset Construction, Data Selection, Synthesis, and Evaluation
-* **Multi-modal Learning**: Video Reasoning and Understanding, including Video Question Answering, Video Captioning, and Vision-Language Tracking
+* **Data-centric AI**: Benchmark and Dataset Construction, Data Selection, Synthesis and Evaluation
+* **Multi-modal Learning**: Video Reasoning and Understanding, including Video Question Answering, Video Captioning and Vision-Language Tracking
 <br>
