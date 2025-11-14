@@ -19,4 +19,3 @@ My research interests mainly lie in **Large Language Models**, **Data-centric AI
 * **Large Language Models**: Large Language Models and Multi-modal Large Language Models Reasoning and Understanding
 * **Data-centric AI**: Benchmark and Dataset Construction, Data Selection, Synthesis and Evaluation
 * **Multi-modal Learning**: Video Reasoning and Understanding, including Video Question Answering, Video Captioning and Vision-Language Tracking
-<br>
