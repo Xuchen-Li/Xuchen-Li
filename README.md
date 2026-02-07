@@ -4,7 +4,7 @@
 
 #### *Zhongguancun Academy and Institute of Automation, Chinese Academy of Sciences*
 
- [**s-lxc24@bjzgca.edu.cn**](mailto:s-lxc24@bza.edu.cn) / [**lixuchen2024@ia.ac.cn**](mailto:lixuchen2024@ia.ac.cn) <be>
+ [**s-lxc24@bza.edu.cn**](mailto:s-lxc24@bza.edu.cn) / [**lixuchen2024@ia.ac.cn**](mailto:lixuchen2024@ia.ac.cn) <be>
 
  [**Google Scholar**](https://scholar.google.com/citations?hl=en-US&user=9zHkraUAAAAJ) / [**Github**](https://github.com/Xuchen-Li)
 
