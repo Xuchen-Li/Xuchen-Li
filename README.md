@@ -2,9 +2,9 @@
 
 #### *Ph.D. Student of Pattern Recognition and Intelligent System*
 
-#### *Zhongguancun Academy and Institute of Automation, Chinese Academy of Sciences*
+#### *Institute of Automation, Chinese Academy of Sciences and Zhongguancun Academy*
 
- [**s-lxc24@bza.edu.cn**](mailto:s-lxc24@bza.edu.cn) / [**lixuchen2024@ia.ac.cn**](mailto:lixuchen2024@ia.ac.cn) <be>
+ [**lixuchen2024@ia.ac.cn**](mailto:lixuchen2024@ia.ac.cn) <be>
 
  [**Google Scholar**](https://scholar.google.com/citations?hl=en-US&user=9zHkraUAAAAJ) / [**Github**](https://github.com/Xuchen-Li)
 
