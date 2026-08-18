@@ -16,4 +16,4 @@ I am a Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences 
 
 * **Multi-modal Adaptive Agentic RL and OPD**: Empower agents through reinforcement learning and on-policy distillation to autonomously interact with complex, dynamic environments and carry out multi-turn, long-horizon decision-making tasks, enabling them to better process text-image and video information.
 * **Streaming Video Understanding Memory Modeling**: Optimize the dense memory compression, memory retrieval triggering mechanism and memory window management capabilities of streaming video understanding models.
-* **Fine-grained Evaluation of Long-horizon Reasoning**: Build benchmarks targeting the model’s reasoning process to conduct fine-grained evaluation and diagnosis of logical consistency, reasoning effectiveness and the distribution of key information.
+* **Fine-grained Evaluation of Multi-modal Reasoning**: Build benchmarks targeting the model’s reasoning process to conduct fine-grained evaluation and diagnosis of logical consistency, reasoning effectiveness and the distribution of key information.
